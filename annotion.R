@@ -7,7 +7,7 @@ Idents(scRNA) <- scRNA@meta.data$seurat_clusters
 
 scRNA <- low_con_scRNA
 
-library(scibet)
+
 library(tidyverse)
 library(ggplot2)
 library(viridis)
